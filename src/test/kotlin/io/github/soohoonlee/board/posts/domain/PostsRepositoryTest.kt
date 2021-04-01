@@ -1,4 +1,4 @@
-package io.github.soohoonlee.board.domain.posts
+package io.github.soohoonlee.board.posts.domain
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.AfterEach

@@ -1,4 +1,4 @@
-package io.github.soohoonlee.board.domain.posts
+package io.github.soohoonlee.board.posts.domain
 
 import javax.persistence.*
 
